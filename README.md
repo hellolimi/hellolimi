@@ -12,6 +12,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black)
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white)<br>
+  
 *I Experienced*
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=TypeScript&logoColor=white)
