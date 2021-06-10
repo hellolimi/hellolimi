@@ -14,6 +14,7 @@
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white)<br>
 *I Experienced*
 
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=TypeScript&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white)
