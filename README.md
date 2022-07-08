@@ -1,6 +1,9 @@
 
 <div align="center">
-# Currently not using this account [Please check "glimkim"](https://github.com/glimkim)
+ <h1>Currently not using this account <br/>
+ [Please check "glimkim"](https://github.com/glimkim)
+ </h1>
+
  
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LIM%20KIM&fontSize=40&animation=fadeIn&fontAlignY=30&desc=const%20LIMKIM%20=%20new%20FrontendDeveloper();&descSize=20&descAlignY=48&descAlign=50)
