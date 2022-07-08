@@ -1,5 +1,7 @@
 
 <div align="center">
+# Currently not using this account [Please check "glimkim"](https://github.com/glimkim)
+ 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=LIM%20KIM&fontSize=40&animation=fadeIn&fontAlignY=30&desc=const%20LIMKIM%20=%20new%20FrontendDeveloper();&descSize=20&descAlignY=48&descAlign=50)
   <p>Hello everyone, I'm Lim 😊, Junior Frontend Developer 👩🏻‍💻</p>
